@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Night Agent",
+    "duration": "50mins",
+    "releasedDate": "2021-05-12",
+    "categories": ["action", "comedy", "romance"]
+  },
+  {
+    "id": 2,
+    "title": "Shadow Cart",
+    "duration": "2hrs50mins",
+    "releasedDate": "2012-08-20",
+    "categories": ["action"]
+  },
+  {
+    "id": 3,
+    "title": "Terminator",
+    "duration": "2hr",
+    "releasedDate": "2021-02-23",
+    "categories": ["action"]
+  }
+]

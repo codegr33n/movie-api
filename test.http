@@ -1,0 +1,11 @@
+
+
+
+# GET http://localhost:5000/api/v1/movies
+
+# PATCH http://localhost:5000/api/v1/movies/2
+
+DELETE http://localhost:5000/api/v1/movies/3
+
+
+# GET http://localhost:5000/api/v1/movies/''/Shadow Cart
